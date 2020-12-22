@@ -1,4 +1,4 @@
-# graphql-with-spring
+# :snowflake: graphql-with-spring
 A basic implementation of Graphql with Spring using .graphqls file for Schema and GraphQLQueryResolver 
 
 - To use de `UI` interface to test the query: `http://localhost:8080/testing`
