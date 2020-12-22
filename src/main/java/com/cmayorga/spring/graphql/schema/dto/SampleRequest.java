@@ -1,4 +1,4 @@
-package com.cmayorga.spring.graphql.schema.dao;
+package com.cmayorga.spring.graphql.schema.dto;
 
 import lombok.Getter;
 import lombok.Setter;

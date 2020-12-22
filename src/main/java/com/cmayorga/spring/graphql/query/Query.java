@@ -2,7 +2,7 @@ package com.cmayorga.spring.graphql.query;
 
 import org.springframework.stereotype.Component;
 
-import com.cmayorga.spring.graphql.schema.dao.SampleRequest;
+import com.cmayorga.spring.graphql.schema.dto.SampleRequest;
 import com.coxautodev.graphql.tools.GraphQLQueryResolver;
 
 @Component
